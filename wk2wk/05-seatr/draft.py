@@ -1,5 +1,5 @@
-#My task was to create Passenger class, but I'm still figuring out what/how to do this.
-I have to create Passenger class with instance variables but I feel sooo lost..
+###My task was to create Passenger class, but I'm still figuring out what/how to do this.
+I have to create Passenger class with instance variables but I feel sooo lost..###
 
 
 #this should include basic attributes such as
