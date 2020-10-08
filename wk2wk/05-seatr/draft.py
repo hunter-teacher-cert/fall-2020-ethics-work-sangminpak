@@ -18,3 +18,4 @@ class Passenger(object):
 
 
 #do I just add stuff within the parenthesis? what do I do to add other variables??
+#current workings -> https://colab.research.google.com/drive/1i1dczv52ekOBG1NpxymG0u0Jlx7DWqhO?usp=sharing
